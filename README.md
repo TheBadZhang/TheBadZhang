@@ -1,44 +1,16 @@
 ## TheBadZhang
 <table border=0>
-	<tr>
-		<th width=5%>
-			<a href="https://www.zhihu.com/people/TheBadZhang/"><img align="center" alt="知乎" width="" src="./res/bilibili.svg"></a>
+	<tr height=20px>
+		<th>
+			<a href="https://space.bilibili.com/11412181"><img align="center" alt="哔哩哔哩" height="40px" src="./res/bilibili.svg"></a>
 		</th>
-		<th width=5%>
-			<a href="https://www.zhihu.com/people/TheBadZhang/"><img align="center" alt="知乎" width="" src="./res/zhihu.svg"></a>
-		</th>
-		<th width=5%>
-			<a href="https://www.zhihu.com/people/TheBadZhang/"><img align="center" alt="知乎" width="" src="./res/zhihu.svg"></a>
-		</th>
-		<th width=5%>
-			<a href="https://www.zhihu.com/people/TheBadZhang/"><img align="center" alt="知乎" width="" src="./res/zhihu.svg"></a>
-		</th>
-		<th width=5%>
-			<a href="https://www.zhihu.com/people/TheBadZhang/"><img align="center" alt="知乎" width="" src="./res/zhihu.svg"></a>
-		</th>
-		<th width=5%>
-			<a href="https://www.zhihu.com/people/TheBadZhang/"><img align="center" alt="知乎" width="" src="./res/zhihu.svg"></a>
-		</th>
-		<th width=5%>
-			<a href="https://www.zhihu.com/people/TheBadZhang/"><img align="center" alt="知乎" width="" src="./res/zhihu.svg"></a>
-		</th>
-		<th width=5%>
-			<a href="https://www.zhihu.com/people/TheBadZhang/"><img align="center" alt="知乎" width="" src="./res/zhihu.svg"></a>
-		</th>
-		<th width=5%>
-			<a href="https://www.zhihu.com/people/TheBadZhang/"><img align="center" alt="知乎" width="" src="./res/zhihu.svg"></a>
-		</th>
-		<th width=5%>
-			<a href="https://www.zhihu.com/people/TheBadZhang/"><img align="center" alt="知乎" width="" src="./res/zhihu.svg"></a>
+		<th>
+			<a href="https://www.zhihu.com/people/TheBadZhang/"><img align="center" alt="知乎" height="40px" src="./res/zhihu.svg"></a>
 		</th>
 	</tr>
 </table>
 <img align="right" alt="TheBadZhang's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=TheBadZhang&show_icons=true&bg_color=120,F5FDFF,FFFFFF">
 一个无聊的人，过着无聊的生活，看着无聊的世界，写着无聊的代码，听着无聊的音乐，走过无聊的路，聊着无聊的天。
-
-希望啊，有一天，我能冲破这该死的束缚，就好了，一切啊，实在是太让人伤心难过了，希望啊，希望啊，实在是该死的渺茫。
-
-静候佳音吧，谁叫未来可期呢。
 
 <img align="right" alt="TheBadZhang's github stats" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheBadZhang&layout=compact&hide_title=true&hide=html">
 
